@@ -1,0 +1,3 @@
+class Fort extends Building{
+
+}

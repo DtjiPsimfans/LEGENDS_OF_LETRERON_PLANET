@@ -1,0 +1,3 @@
+class Hill extends Land{
+
+}

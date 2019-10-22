@@ -1,0 +1,3 @@
+class QuizZone extends Building{
+
+}

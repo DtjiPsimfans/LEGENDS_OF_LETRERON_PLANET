@@ -1,0 +1,3 @@
+class Harbor extends Building{
+
+}

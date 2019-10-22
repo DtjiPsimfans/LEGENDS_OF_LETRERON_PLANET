@@ -1,0 +1,3 @@
+class Ocean extends Water{
+
+}

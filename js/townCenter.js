@@ -1,0 +1,3 @@
+class TownCenter extends Building{
+
+}

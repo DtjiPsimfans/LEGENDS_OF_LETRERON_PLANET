@@ -1,0 +1,3 @@
+class BattlefieldShop extends Shop{
+
+}

@@ -1,0 +1,3 @@
+class DefenseTower extends Building{
+
+}

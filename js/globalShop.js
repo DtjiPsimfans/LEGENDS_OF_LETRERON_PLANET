@@ -1,0 +1,3 @@
+class GlobalShop extends Shop{
+
+}

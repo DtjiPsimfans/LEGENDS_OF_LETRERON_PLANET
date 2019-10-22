@@ -1,0 +1,3 @@
+class WildCharacter extends Character{
+
+}

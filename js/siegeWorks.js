@@ -1,0 +1,3 @@
+class SiegeWorks extends Building{
+
+}

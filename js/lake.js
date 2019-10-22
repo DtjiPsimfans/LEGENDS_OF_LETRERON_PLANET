@@ -1,0 +1,3 @@
+class Lake extends Water{
+
+}

@@ -1,0 +1,3 @@
+class Plains extends Land{
+
+}
